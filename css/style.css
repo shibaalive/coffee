@@ -1,7 +1,7 @@
 @charset "utf-8";
-A:link { FONT-STYLE: normal; TEXT-DECORATION: none; color: #FF0000;} 
+A:link { FONT-STYLE: normal; TEXT-DECORATION: none; color: #ffffff;} 
 A:visited { FONT-STYLE: normal; TEXT-DECORATION: none; color: #ffffff;} 
-A:active { FONT-STYLE: normal; TEXT-DECORATION: none; color: #FF0000;} 
+A:active { FONT-STYLE: normal; TEXT-DECORATION: none; color: #ffffff;} 
 A:hover {FONT-STYLE: normal;  TEXT-DECORATION: none; color: #03E331;}
 body {
   margin: 0; 
